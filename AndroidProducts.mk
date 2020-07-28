@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bootleg_X00T.mk
+    $(LOCAL_DIR)/AEX_X00T.mk
 
 COMMON_LUNCH_CHOICES := \
-    bootleg_X00T-user \
-    bootleg_X00T-userdebug \
-    boitleg_X00T-eng
+    AEX_X00T-user \
+    AEX_X00T-userdebug \
+    AEX_X00T-eng
