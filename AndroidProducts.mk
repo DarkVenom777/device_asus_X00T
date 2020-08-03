@@ -18,6 +18,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_X00T.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_X00T-user \
-    aosp_X00T-userdebug \
-    aosp_X00T-eng
+    lineage_X00T-user \
+    lineage_X00T-userdebug \
+    lineage_X00T-eng
